@@ -4,7 +4,6 @@
 
 ### 📖 About me : 
 - 🎓 Computer Science Student at <a href="https://www.univ-lemans.fr/fr/index.html">Le Mans Université</a>
-- 🔍 Looking for a 2-year apprenticeship opportunity in software development (Bac+5 / Master's level)
 
 ---
 ### 👨‍💻 Skills : 
